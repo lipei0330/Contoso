@@ -1,0 +1,11 @@
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Entities\bin\Debug\Contoso.Entities.dll.config
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Entities\bin\Debug\Contoso.Entities.dll
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Entities\bin\Debug\Contoso.Entities.pdb
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Entities\bin\Debug\EntityFramework.dll
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Entities\bin\Debug\EntityFramework.xml
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Entities\obj\Debug\Contoso.Entities.csproj.CoreCompileInputs.cache
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Entities\obj\Debug\Contoso.Entities.csproj.CopyComplete
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Entities\obj\Debug\Contoso.Entities.dll
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Entities\obj\Debug\Contoso.Entities.pdb

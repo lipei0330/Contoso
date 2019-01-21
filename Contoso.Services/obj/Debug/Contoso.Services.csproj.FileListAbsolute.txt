@@ -1,0 +1,15 @@
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Services\bin\Debug\Contoso.Services.dll
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Services\bin\Debug\Contoso.Services.pdb
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Services\bin\Debug\Contoso.Data.dll
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Services\bin\Debug\Contoso.Entities.dll
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Services\bin\Debug\EntityFramework.dll
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Services\bin\Debug\Contoso.Data.pdb
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Services\bin\Debug\Contoso.Data.dll.config
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Services\bin\Debug\Contoso.Entities.pdb
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Services\bin\Debug\Contoso.Entities.dll.config
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Services\bin\Debug\EntityFramework.xml
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Services\obj\Debug\Contoso.Services.csprojAssemblyReference.cache
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Services\obj\Debug\Contoso.Services.csproj.CoreCompileInputs.cache
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Services\obj\Debug\Contoso.Services.csproj.CopyComplete
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Services\obj\Debug\Contoso.Services.dll
+C:\Users\lipei\source\repos\Projects\Contoso.Web\Contoso.Services\obj\Debug\Contoso.Services.pdb
